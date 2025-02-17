@@ -27,11 +27,10 @@ Este é um projeto de uma **página de documentação técnica** sobre JavaScrip
 
 ## 🔧 Como Executar
 
-1. Clone o repositório:
+1. Abra o link:
    ```sh
-   git clone https://github.com/DiogoSNs/JavaScript-Documentation.git
+   https://diogosns.github.io/JavaScript-Documentation/
    ```
-2. Abra o arquivo `index.html` no navegador.
 
 
 
