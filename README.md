@@ -29,11 +29,9 @@ Este é um projeto de uma **página de documentação técnica** sobre JavaScrip
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/DiogoSNs/JavaScript-Documentation.git
    ```
 2. Abra o arquivo `index.html` no navegador.
 
-## 📜 Licença
 
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo! 😊
 
